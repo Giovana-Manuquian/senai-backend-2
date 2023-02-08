@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHllvUwtncB/FoD8Y++ZF5RnlzF8SEdILT6EAL1sJAIX78QZK0so3yyDhOrcAn0Wl1I2iCuq3VY4XQrGuktZcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marly Cavalcanti\\Documents\\ER7\\PROJETO2\\BE7_FS4_UC9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marly Cavalcanti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Marly Cavalcanti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Marly Cavalcanti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Marly Cavalcanti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
